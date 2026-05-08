@@ -8,7 +8,7 @@ This repo is preserved as a product/workflow case study, not as a modern product
 
 ## Problem
 
-Inventory/compliance staff had to manually enter COA and label details into a large free-text field. Formatting varied by person, which created inconsistent labels and avoidable corrections.
+Inventory and compliance staff had to manually enter COA and label details into a large free-text field. Formatting varied by person, which created inconsistent labels and avoidable corrections.
 
 ## Solution
 
@@ -25,6 +25,8 @@ The first version included a typing speed timer/high-score mechanic. After seein
 - Build guardrails around compliance tasks
 - Watch real users, then iterate
 - Fun features are not valuable if they increase stress
+
+One early product lesson I learned the hard way: gamification is only useful when it reduces friction for the user. If it adds pressure to an already compliance-heavy workflow, it is not a feature — it is a stress machine with CSS.
 
 ## Project Retrospective
 
