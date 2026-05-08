@@ -1,4 +1,4 @@
-# Project Retrospective: # Cannabis Compliance Label Helper — Legacy Retrospective
+# Project Retrospective: # Cannabis Compliance Label Helper — Legacy
 
 ## Context
 
