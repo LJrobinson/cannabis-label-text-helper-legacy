@@ -25,3 +25,7 @@ The first version included a typing speed timer/high-score mechanic. After seein
 - Build guardrails around compliance tasks
 - Watch real users, then iterate
 - Fun features are not valuable if they increase stress
+
+## Project Retrospective
+
+Read the full retrospective here: [RETROSPECTIVE.md](./RETROSPECTIVE.md)
